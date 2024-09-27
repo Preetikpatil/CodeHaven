@@ -40,3 +40,9 @@ Worked on addons for honeywell
 4. Content Formatting macros for Confluence
 5. Reporting for confluence - used for reporting 
 6. Zephyr scale reporting for confluence - need to do more  
+1. Baselines for Confluences 
+2. Comala document management 
+3. Scroll PDF EXporter 
+4. Content Formatting macros for Confluence
+5. Reporting for confluence - used for reporting 
+6. Zephyr scale reporting for confluence - need to do more 
