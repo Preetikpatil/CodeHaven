@@ -39,4 +39,6 @@ Worked on addons for honeywell
 3. Scroll PDF EXporter 
 4. Content Formatting macros for Confluence
 5. Reporting for confluence - used for reporting 
-6. Zephyr scale reporting for confluence - need to do more  
+6. Zephyr scale reporting for confluence - need to do more
+
+7. Project	Atlassian	YesProject	Atlassian	YesProject	Atlassian	YesProject	Atlassian	Yes
