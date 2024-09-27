@@ -27,29 +27,18 @@
 </html>
 Iframe URL's used in comments are not imported, we need to add them manually.
 URLs with a maximum length of 2,000 characters,  exceed this limit are skipped from the import process.
-
-
 Data setup for source test site to work on cloud to cloud migration 
-
-
 Worked on addons for honeywell
-
 1. Baselines for Confluences 
 2. Comala document management 
 3. Scroll PDF EXporter 
 4. Content Formatting macros for Confluence
 5. Reporting for confluence - used for reporting 
 6. Zephyr scale reporting for confluence - need to do more
-
 Iframe URL's used in comments are not imported, we need to add them manually.
 URLs with a maximum length of 2,000 characters,  exceed this limit are skipped from the import process.
-
 Monday 
-
 CFM addon worked on Iframe macro- dc
 GitHub refered - Github pages
 Discussion of Offboarding req with pkc sir -
-
-
-
-
+Select all users, or only users related to the projects or spaces you want to move.
